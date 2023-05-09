@@ -1,5 +1,5 @@
 ### Hi there 👋
-## My Name is Amirreza and I'm frontend developer, I've done a lot of projects and used pure Html,css,Js and using libraries and framework like React and Vue.
+## My Name is Amirreza and I'm mid-level frontend developer, and I've done some projects and used pure Html,css,Js and using libraries and framework like React and Vue.
 - 🔭 I’m currently working on PAP Projects like Ardalan and Shabaviz also I'm mentoring a small team to learn basic of vue js 
 - 🌱 I’m currently learning Nuxt js and Next js.
 - 📫 How to reach me: you can reach me with the emails **amirreza.jolani1998@gmail.com**
