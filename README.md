@@ -2,7 +2,7 @@
 ## My Name is Amirreza and I'm a mid-level frontend developer, and I've done some projects with react and Vue js.
 - 🔭 I’m currently working in PAPGroup company on some project like Ardalan and Shabaviz and shdparvaz also I'm mentoring a small team to learn basics of vue js.
 - 🌱 I’m currently learning Nuxt js and Next js.
-- 📫 How to reach me: you can reach me with the email: **amirreza.jolani1998@gmail.com**
+- 📫 you can find me on social medias like twitter and linkedIn.
 
 <!--
 **AmirrezaJM/AmirrezaJM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
