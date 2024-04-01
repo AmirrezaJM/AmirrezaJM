@@ -1,6 +1,6 @@
-### Hi there 👋
-## My Name is Amirreza and I'm a mid-level frontend developer, and I've done some projects with React and Vue js.
-- 🔭 I’m currently working in PAPGroup company on some projects like Ardalan and Shabaviz and Shdparvaz also I'm mentoring a small team to teach the basics of vue js.
+### Hi there guys 👋
+## I'm a mid-level front-end developer, and I've done some projects with React and Vue js.
+- 🔭 I’m currently working in PAPGroup company on some projects like Ardalan Shabaviz and Shdparvaz also I'm mentoring a small team to teach the basics of vue js.
 - 🌱 I’m currently learning Nuxt js and Next js.
 - 📫 you can find me on social media like Twitter and LinkedIn.
 
