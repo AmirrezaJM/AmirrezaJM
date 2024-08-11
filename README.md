@@ -1,7 +1,8 @@
 ### Hi there guys 👋
 ## I'm a mid-level front-end developer, and I've done some projects with React and Vue js.
-- 🔭 I’m currently working in PAPGroup company on some projects like Ardalan Shabaviz and Shdparvaz also I'm mentoring a small team to teach the basics of vue js.
-- 🌱 I’m currently learning Nuxt js and Next js.
+- 👀 I'm currently looking for an internship situation in the EU.
+- 🔭 I worked in PAPGroup company on some projects like Ardalan Shabaviz and Shdparvaz also I'm mentoring a small team to teach the basics of vue js.
+- 🌱 I’m currently learning new version of Nuxt js and Next js.
 - 📫 you can find me on social media like Twitter and LinkedIn.
 
 <!--
