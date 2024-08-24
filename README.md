@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Amirreza Jolani Mameghani</h1>
-<h3 align="center">A passionate frontend developer(React and Vue js), who living in Italy.</h3>
+<h1 align="left">Hi 👋, I'm Amirreza Jolani Mameghani</h1>
+<h3 align="left">A passionate frontend developer(React and Vue js), who living in Italy.</h3>
 
 - 🌱 I’m currently learning new Version of **Nuxt js and Next js and swift language**
 
-- 🔭 I worked at PAPGroup company on some projects like Shabaviztour and aryaktravel also I'm mentoring a small team to teach the basic of vue js. [shabaviztour](https://www.shabaviztour.com/)
+- 🔭 I worked at PAPGroup company on some projects like Shabaviztour and aryaktravel also I had been mentored a small team to teach the basic of vue js. you can check the [shabaviztour webstie in this link:](https://www.shabaviztour.com/)
 
-- 🤝 I’m looking for help with [zharfa](https://zharfa.org/)
+- 🤝 I’m looking for help with another company to make a website with laravel and vue js check the link out: [https://zharfa.org/](https://zharfa.org/)
 
 - 📝 I regularly write articles on [linkedln.com](linkedln.com)
 
