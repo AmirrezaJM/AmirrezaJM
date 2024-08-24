@@ -1,19 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-20936
-Fork on GitHub
-6469
-
-back to edit
-
-copied
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm Amirreza Jolani Mameghani</h1>
 <h3 align="center">A passionate frontend developer(React and Vue js), who living in Italy.</h3>
 
