@@ -3,9 +3,9 @@
 
 - 🌱 I’m currently learning new Version of **Nuxt js and Next js and swift language**
 
-- 🔭 I worked at PAPGroup company on some projects like Shabaviztour and aryaktravel also I had been mentored a small team to teach the basic of vue js. you can check the [shabaviztour webstie in this link:](https://www.shabaviztour.com/)
+- 🔭 I worked at PAPGroup company on some projects like Shabaviztour and aryaktravel I also mentored a small team to teach the basics of vue js. you can check the [shabaviztour website in this link:](https://www.shabaviztour.com/)
 
-- 🤝 I’m looking for help with another company to make a website with laravel and vue js check the link out: [https://zharfa.org/](https://zharfa.org/)
+- 🤝 I’m looking for help with another company to make a website with Laravel and Vue js check the link out: [https://zharfa.org/](https://zharfa.org/)
 
 - 📝 I regularly write articles on [linkedln.com](linkedln.com)
 
