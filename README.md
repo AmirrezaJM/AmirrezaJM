@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Amirreza Jolani Mameghani</h1>
-<h3 align="left">A passionate frontend developer(React and Vue js), who living in Italy.</h3>
+<h3 align="left">A passionate fullstack developer, who is living in Italy.</h3>
 
 - 🌱 I’m currently learning new Version of **Nuxt js and Next js and swift language**
 
