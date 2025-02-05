@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Amirreza Jolani Mameghani</h1>
 <h3 align="left">A passionate fullstack developer, who is living in Italy.</h3>
 
-- 🌱 I’m currently learning new Version of **Nuxt js and Next js and swift language**
+- 🌱 I’m currently working on a project with Karhuno AI company and the website is up Coming soon.
 
 - 🔭 I worked at PAPGroup company on some projects like Shabaviztour and aryaktravel I also mentored a small team to teach the basics of vue js. you can check the [shabaviztour website](https://www.shabaviztour.com/)
 
