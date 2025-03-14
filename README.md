@@ -1,13 +1,13 @@
 <h1 align="left">Hi 👋, I'm Amirreza Jolani Mameghani</h1>
 <h3 align="left">A passionate fullstack developer, who is living in Italy.</h3>
 
-- 🌱 I’m currently working on a project with Karhuno AI - [karhuno website](https://www.karhuno.com/) 🚀🚀🚀🚀
+- 🌱 I’m currently working on a project with Karhuno AI - [karhuno](https://www.karhuno.com/) 🚀🚀🚀🚀
 
-- 🔭 I worked at PAPGroup company on some projects like Shabaviztour and aryaktravel I also mentored a small team to teach the basics of vue js. you can check the [shabaviztour website](https://www.shabaviztour.com/)
+- 🔭 I worked at PAPGroup company on some projects like Shabaviztour and aryaktravel I also mentored a small team to teach the basics of vue js. you can check the [shabaviztour](https://www.shabaviztour.com/)
 
 - 🤝 I’m looking for help with another company to make a website with Laravel and Vue js check the link out: [https://zharfa.org/](https://zharfa.org/)
 
-- 📝 I regularly write articles on [linkedln.com](linkedln.com)
+- 📝 I regularly write articles on [linkedln](linkedln.com)
 
 - 💬 Ask me about **react and vue**
 
