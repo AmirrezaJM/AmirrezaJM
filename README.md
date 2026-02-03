@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Amirreza Jolani Mameghani</h1>
-<h3 align="left">A passionate fullstack developer, who is living in Italy.</h3>
+<h3 align="left">A passionate fullstack developer</h3>
 
 - 🌱 I’m currently working on a exiting project and coming soon  🚀🚀🚀🚀
 
