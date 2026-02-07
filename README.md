@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently working on a exiting project and coming soon  🚀🚀🚀🚀
 
-- 🔭 I worked at PAPGroup company on some projects like Shabaviztour and Aryaktravel. I also mentored a small team to teach the basics of Vue.js. You can check the [shabaviztour](https://www.shabaviztour.com/) Also I worked withthe  karhunoAI team and built the website with Next js 15 You can check it out here [karhuno](https://www.karhuno.com/)
+- 🔭 I worked at PAPGroup company on some projects like Shabaviztour and Aryaktravel. I also mentored a small team to teach the basics of Vue.js. You can check the [shabaviztour](https://www.shabaviztour.com/) Also I worked withthe  karhunoAI team and built the website with Next.js You can check it out here [karhuno](https://www.karhuno.com/)
 
 - 🤝 I’m looking for help with another company to make a website with Laravel and Vue Js Check the link out: [https://zharfa.org/](https://zharfa.org/)
 
