@@ -1,5 +1,6 @@
 <h1 align="left">Hi 👋, I'm Amirreza Jolani Mameghani</h1>
 <h3 align="left">A passionate fullstack developer with a growing obsession with AI 🤖</h3>
+<h3 align="left">my other account is [AmirrezaJolani](https://github.com/AmirrezaJolani)</h3>
 
 - 🚀 I'm currently a Fullstack Engineer at **Pillar** and super excited to continue growing and building great things with the team! 🎉
 
