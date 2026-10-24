@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Amirreza Jolani Mameghani</h1>
+<h1 align="left">Hi 👋, I'm Amirreza Jolani Mameghani - Personal account</h1>
 <h3 align="left">A passionate fullstack developer with a growing obsession with AI 🤖</h3>
 <h3 align="left">my other account is https://github.com/AmirrezaJolani</h3>
 
